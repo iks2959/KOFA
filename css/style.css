@@ -1,0 +1,34 @@
+#header{
+    width:100%;
+    height:40px;
+    background-color: #333;
+    display: block;
+}
+
+.wrap-inner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:0px 370px;
+}
+#header #gnbutil .wrap-inner ul li a{
+    font-size: 13px;
+    color:#fff;
+    text-decoration-line:none;
+}
+
+.list-left{
+    list-style: none;
+    color:#fff;
+}
+
+
+.list-right{
+    list-style: none;
+    display: flex;
+}
+
+.list-right li a{
+    margin-right:20px;
+   
+}
