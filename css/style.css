@@ -85,3 +85,55 @@
     list-style: none;
     font-size: 16px;
 }
+
+.read{
+    position:absolute;
+    width:1200px;
+    height:5418px;
+    border:1px solid black;
+    text-align: center;
+    margin-left:0 auto;
+    top:57%;
+    left:20.5%;
+}
+
+.read h3{
+    font-size:22px;
+    font-weight:600;
+    margin-top:70px;
+}
+
+.read h4{
+    font-size: 20px;
+    display: flex;
+    margin-top:70px;
+}
+
+.text01{
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+    margin-top:35px;
+}
+
+.text02{
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+    margin-top:35px;
+}
+
+.KOFA01 {
+    margin:15px;
+}
+
+.text03{
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+    margin-top:35px;
+}
+
+.KOFA02{
+    margin-top:50px;
+}
