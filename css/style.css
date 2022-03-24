@@ -65,6 +65,7 @@
     width:1200px;
     height:145px;
     display:flex;
+    position: relative;
     justify-content: space-between;
     text-align: center;
     margin:0 auto;
@@ -78,7 +79,6 @@
 .collection{
     display: flex;
     justify-content: space-between;
-    margin: 90px 40px;
 }
 
 .collection li {
@@ -91,9 +91,7 @@
     width:1200px;
     height:5418px;
     text-align: center;
-    margin-left:0 auto;
-    top:57%;
-    left:20.5%;
+    margin-top:140px;
 }
 
 .read h3{
@@ -135,4 +133,71 @@
 
 .KOFA02{
     margin-top:50px;
+}
+
+.read h5{
+    font-size:22px;
+    font-weight:600;
+    margin-top:70px;
+    display:flex;
+}
+
+.text04{
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+    margin-top:35px;
+}
+
+.KOFA03{
+    margin-top:50px;
+}
+
+.span01{
+    font-size:14px;
+}
+
+.text05{
+    margin-top:70px;
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+}
+
+.read h6{
+    font-size:22px;
+    font-weight:600;
+    margin-top:70px;
+    display:flex;
+}
+
+.text06{
+    margin-top:70px;
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+}
+
+.KOFA04{
+    margin-top:20px;
+}
+
+.span02{
+    font-size:14px;
+}
+
+.text07{
+    margin-top:40px;
+    font-size: 18px;
+    font-weight:300;
+    text-align: justify;
+}
+
+.span03 {
+    width:1200px;
+    display: flex;
+    justify-content: flex-end;
+    font-size:18px;
+    margin-top:50px;
+    font-weight: 400;
 }
