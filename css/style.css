@@ -63,15 +63,22 @@
 
 .main02{
     width:1200px;
+    height:145px;
     display:flex;
     justify-content: space-between;
     text-align: center;
     margin:0 auto;
+    border-bottom: 3px solid #333;
 }
 
+.main02 h1{
+    font-size:40px;
+    margin:55px 0;
+}
 .collection{
     display: flex;
     justify-content: space-between;
+    margin: 90px 40px;
 }
 
 .collection li {
